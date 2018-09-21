@@ -1,3 +1,10 @@
-hi akhil ere r u going???
+
+hiii nikhil
 whats the time?
+<<<<<<< HEAD
 evenging is dinner.
+=======
+
+
+thanyou sir
+>>>>>>> feature3
